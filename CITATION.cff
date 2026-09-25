@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Predicting Falcon 9 First-Stage Landing Success"
+abstract: "A reproducible study of SpaceX Falcon 9 first-stage landings: API collection, Wikipedia scraping, SQL and visual EDA, an interactive launch-site map, and four classification models."
+type: software
+authors:
+  - family-names: "Awais"
+    given-names: "Malik"
+license: MIT
+repository-code: "https://github.com/malikb0/falcon9-landing-analysis"
+keywords:
+  - spacex
+  - falcon-9
+  - machine-learning
+  - classification
+  - data-science
+  - dash
+  - folium
+version: "1.0.0"
+date-released: "2026-09-25"
